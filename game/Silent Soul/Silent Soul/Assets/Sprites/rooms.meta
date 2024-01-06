@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:game/Silent Soul/Silent Soul/Assets/Sprites/rooms.meta
+guid: 72d15fa537d82804b867cb5eb7382f1f
+folderAsset: yes
+========
+guid: b192013ffb4140745b62e44871754d68
+>>>>>>>> 3fef1dec9cfaaf6acb948ab9b4d3a9a1cc9977b4:game/Silent Soul/Silent Soul/Assets/Scenes/Game.unity.meta
+=======
+guid: 4b41b5387911df642ae04b65ecaf303d
+folderAsset: yes
+>>>>>>> 3fef1dec9cfaaf6acb948ab9b4d3a9a1cc9977b4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
